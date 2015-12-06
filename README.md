@@ -18,7 +18,7 @@ $ git clone [repo]
 $ meteor
 ```
 
-your application will now be started on http://localhost:3000
+your application will now be started on [http://localhost:3000](http://localhost:3000)
 
 
 # folder/file structure
