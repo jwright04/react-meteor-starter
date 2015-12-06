@@ -51,7 +51,7 @@ adds.
 
 # contributor notes
 
-this tutorial is based on i'm open to any suggestions with regards to a better faster setup.  feel free to open up an issue.
+if you find something not working correctly, in the application or in my setup instructions, open up an issue.
 
 
 # license
